@@ -1,6 +1,4 @@
 import numpy as np
-import math
-import json
 
 class Neuron:
     def __init__(self, w, b, speed_learning, x ,true):

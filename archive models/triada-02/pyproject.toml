@@ -1,0 +1,16 @@
+[project]
+name = "triada-02"
+version = "1.0"
+description = "My second NN model YEEEAH"
+authors = [
+    {name = "N"}
+]
+requires-python = ">=3.14"
+dependencies = [
+    "numpy (>=2.5.4,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
